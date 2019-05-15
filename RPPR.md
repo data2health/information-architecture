@@ -12,8 +12,8 @@ Information architecture is typically defined as the structural design of shared
 * Identification of logical points of interconnection between information sources and sinks, with a particular focus on the potential reduction of duplicative effort
 
 # Timeline (monthly)
-* 9/1 - v.1 CD2H architecture diagram
-* 1/1 - v.2 CD2H/CTSA architecture diagram (only those relevant to our charter)
+* 9/1 - v.1 CD2H architecture
+* 1/1 - v.2 CD2H/CTSA architecture (only those relevant to our charter)
 
 # Potential Pitfalls and Alternative Strategies
 

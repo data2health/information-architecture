@@ -13,11 +13,11 @@ Information architecture is typically defined as the structural design of shared
 
 # Deliverables
 - **CD2H Information Architecture, Version 1**
- - Authoritative list of all information producing/consuming components of CD2H (including organizations, personnel and software)
- - List of information interconnects between components, including type of information and frequency
+  - Authoritative list of all information producing/consuming components of CD2H (including organizations, personnel and software)
+  - List of information interconnects between components, including type of information and frequency
 - **CD2H/CTSA Information Architecture, Version 2**
- - Component list extended to CTSA Consortium (but limited to those relevant to the CD2H mission)
- - Information interconnects similarly extended
+  - Component list extended to CTSA Consortium (but limited to those relevant to the CD2H mission)
+  - Information interconnects similarly extended
 
 # Timeline (monthly)
 * 9/1 - v.1 CD2H information architecture

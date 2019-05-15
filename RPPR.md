@@ -11,9 +11,12 @@ Information architecture is typically defined as the structural design of shared
 * Improved recognition of existing information sources, both within CD2H (phase 1) and the CTSA Consortium (phase 2)
 * Identification of logical points of interconnection between information sources and sinks, with a particular focus on the potential reduction of duplicative effort
 
+# Deliverables
+* *CD2H Information Architecture, Version 1*
+
 # Timeline (monthly)
-* 9/1 - v.1 CD2H architecture
-* 1/1 - v.2 CD2H/CTSA architecture (only those relevant to our charter)
+* 9/1 - v.1 CD2H information architecture
+* 1/1 - v.2 CD2H/CTSA information architecture (only those relevant to our charter)
 
 # Potential Pitfalls and Alternative Strategies
 

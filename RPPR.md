@@ -7,12 +7,12 @@ This is planned as two successive exercises in documenting the information archi
 # Methodology
 Information architecture is typically defined as the structural design of shared information environments (e.g., complex web sites and intranets) and usually focuses upon usability and findability. We will adapt these default practices to the reality of having little leverage over the already-running projects in the current phase of CD2H work and over the independent plans of the CTSA hubs and their informatics teams. The primary focus during the current grant period will be on identification and conceptual linkage of information sources and flows, with an eye towards how these might be adapted in future phases of the grant.
 
-As various elements of the overall CD2H project reach a sufficent level of maturity, they will be added to [CD2H Labs](http://labs.cd2h.org) for evaluation by the CTSA Community. Fully mature projects will then be migrated to the CD2H production website and/or the NCATS cloud, as appropriate. Similary, as projects and tools external to CD2H are identified, they will be added into the mix, further enabling their utilization.  The resulting "app store" should significantly emable existing and new CTSA hubs in selection and utilization of a broad range of tools.
+As various elements of the overall CD2H project reach a sufficent level of maturity, they will be added to [CD2H Labs](http://labs.cd2h.org) for evaluation by the CTSA Community. Fully mature projects will then be migrated to the CD2H production website and/or the NCATS cloud, as appropriate. Similary, as projects and tools external to CD2H are identified, they will be added into the mix, further enabling their utilization.  The resulting "app store" should significantly enable existing and new CTSA hubs in selection and utilization of a broad range of tools.
 
 # Expected Outcomes
 * Improved recognition of existing information sources, both within CD2H (phase 1) and the CTSA Consortium (phase 2)
 * Identification of logical points of interconnection between information sources and sinks, with a particular focus on the potential reduction of duplicative effort
-* An active market of CTSA-relevant tools fostering efficiently utilization by hubs
+* An active market of CTSA-relevant tools fostering efficient utilization by hubs
 
 # Deliverables
 - **CD2H Information Architecture, Version 1**

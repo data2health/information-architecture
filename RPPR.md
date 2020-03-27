@@ -37,3 +37,22 @@ relatively "pure" information architecture exercise, initially mapping informati
 organization in an initial phase, and then expanding to interconnections with and between the CTSA hubs in a second phase.
 We will assess the utility of the work completed in the initial phase as part of our fall meeting plans with the intention
 of adjusting activity for the second phase based upon reception of and feedback from the hubs.
+
+# Y3 (July 1, 2019-June 30, 2020) Accomplishments 
+The following content is from the June 30 - Dec 30, 2019 mid year progress report [here](https://docs.google.com/document/d/1XRbhj0DeVmp6k2hLDSXP7gz2iDjmYxur1tmi-fUoewU/edit#heading=h.c5hx5h86klb8).  Please add progress for Jan 1 - June 30th, 2020. 
+
+* - **CD2H Information Architecture, Version 1**
+  - Authoritative list of all information producing/consuming components of CD2H (including organizations, personnel and software)
+  - List of information interconnects between components, including type of information and frequency
+       * 100% complete. The CD2H integration of GoogleDrive, GitHub, etc. is available at labs.cd2h.org/analytics - this includes live dashboards into the GitHub milestones and issues for all cores and projects. The remainder of interfaces into the architecture can be found at labs.cd2h.org/scits - see the SciTS section below for more detail.
+        
+- **Prototype App Store**
+  - An initial suite of CD2H Tools (e.g., menRva) and external tools (e.g., SPARC) providing a basis for evaluation of the storefront
+      * The App Store was reassigned to the [Cloud and Tools Infrastructure Core](https://github.com/data2health/ctsa-tool-registry/issues/11).  
+  
+- **CD2H/CTSA Information Architecture, Version 2**
+  - Component list extended to CTSA Consortium (but limited to those relevant to the CD2H mission)
+  - Information interconnects similarly extended
+      * For version 2, we have assimilated the SciTS project as the implementation vehicle for the Information Architecture.  Seel the SciTS section for more detail.
+
+      * Consortium components deemed relevant at this point include hub educational resources and services and YouTube video. Hub material is accessible through CTSAsearch (labs.cd2h.org/search). YouTube video content is currently available through tubeForager (labs.cd2h.org/tubeForager), and once curated, will be folded into CTSAsearch.
